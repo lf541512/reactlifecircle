@@ -1,0 +1,28 @@
+.wrapper{
+    width: 600px;
+    background-color: #cccc99;
+    overflow: hidden;
+}
+.A,.B{
+    width: 300px;
+    height: 200px;
+    float: left;
+    overflow: hidden;
+}
+.A{
+    background-color: #008080;
+}
+.B{
+    background-color: #0040D0;
+}
+.A1,.B1{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #7D9029;
+}
+.A11{
+    width: 70px;
+    margin: 0 auto;
+    background-color: #cccc99;
+}
